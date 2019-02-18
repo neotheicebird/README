@@ -5,22 +5,14 @@ A best practice template to make the best READMEs for any project
 
 # Contents
 
-[Overview](#Overview)
-
-[Getting Started Guide](#Getting-Started-Guide)
-
-[How to Run and Deploy](#How-to-Run-and-Deploy)
-
-[Troubleshooting](#Troubleshooting)
-
-[Design](#Design)
-
-[Implementation](#Implementation)
-
-[Testing](#Testing)
-
-[Next Steps](#Next-Steps)
-
+[Overview](#Overview)  
+[Getting Started Guide](#Getting-Started-Guide)  
+[How to Run and Deploy](#How-to-Run-and-Deploy)  
+[Troubleshooting](#Troubleshooting)  
+[Design](#Design)  
+[Implementation](#Implementation)  
+[Testing](#Testing)  
+[Next Steps](#Next-Steps)  
 [Conclusion](#Conclusion)
 
 # Getting Started Guide
