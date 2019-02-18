@@ -1,7 +1,7 @@
 # Overview
 A best practice template to make the best READMEs for any project
 
-![logo]("//logo.clearbit.com/spotify.com" "your project logo")
+![logo](https://logo.clearbit.com/spotify.com "your project logo")
 
 # Contents
 
